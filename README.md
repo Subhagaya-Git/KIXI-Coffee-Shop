@@ -27,7 +27,7 @@ It’s fully **responsive**, visually appealing, and includes **interactive elem
 
 Here’s a quick preview of the **KIXI Coffee Shop Website** in action:  
 
-<img width="900" alt="KIXI Coffee Shop Demo" src="https://github.com/Subhagaya-Git/PlatformIO-with-WOKWI-Simulation/blob/c87ff23f2a1abf05ef75d9dc8dedf7a1d99d9b43/src/Recording%202025-10-06%20123416.gif" />
+<img width="900" alt="KIXI Coffee Shop Demo" src="[https://github.com/Subhagaya-Git/PlatformIO-with-WOKWI-Simulation/blob/c87ff23f2a1abf05ef75d9dc8dedf7a1d99d9b43/src/Recording%202025-10-06%20123416.gif](https://github.com/Subhagaya-Git/KIXI-Coffee-Shop/blob/1553cc858b26a40478d193b6beaa44439384abc7/bandicam%202025-04-18%2000-29-20-108%20(2).mp4)" />
 
 (Replace the image or GIF link with your actual demo if needed.)
 
@@ -76,4 +76,5 @@ This project is licensed under the **MIT License** — see the LICENSE file for 
 ## 🏁 Final Note
 
 > “A great coffee deserves a great website — simple, warm, and inviting.” ☕✨
+
 
